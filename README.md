@@ -12,8 +12,7 @@ Who would have known it could be so romantic?
 3. Open a terminal window and change directories (cd) from your present working directory (pwd) to the folder caesar_cipher
    Note* cd someFolderName to enter a folder and cd .. someFolderName to get out of that folder
 4. Type ls in the command line to see the main.py file in that folder
-5. Type touch message.txt to create a new text file called message
-7. Type touch secret.txt to create a new text file called secret
+5. Type touch secret.txt to create a new text file called secret
 6. Type source activate cipher2 
 
 ### Determining the Key:
